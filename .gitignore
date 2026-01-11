@@ -38,3 +38,6 @@ var/
 
 # macOS
 .DS_Store
+
+# Runtime & Log files
+*.log
